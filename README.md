@@ -1,16 +1,16 @@
-## Hi there 👋
+oi,seja bem vindo ao meu perfil 🥇
 
-<!--
-**alexfrediani/alexfrediani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá meu nome e Alex
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem javaSclip
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
+
+  ## Você pode entrar em contato comigo 📫
+
+00001119196085sp@al.educacao.sp.gov.br
+
+@alexfrediani
+
+![](https://media1.tenor.com/m/tJr565OBPJUAAAAC/messi-bar%C3%A7a.gif)  
